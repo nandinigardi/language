@@ -1,6 +1,6 @@
 # language
 easy coding language.
-a=12
-b=10
+a=int(input("enter a 1 number"))
+b=int(input("enter a 2 number"))
 c=a+b
 print("addition of a and b",c)
