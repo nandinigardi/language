@@ -6,3 +6,5 @@ c=a+b
 print("addition of a and b",c)
 d=a-b
 print("subtraction of a and b",d)
+e=a*b
+print("multiplication of a and b",e)
