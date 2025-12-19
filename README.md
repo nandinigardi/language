@@ -8,3 +8,5 @@ d=a-b
 print("subtraction of a and b",d)
 e=a*b
 print("multiplication of a and b",e)
+f=a/b
+print("division of a and b",f)
